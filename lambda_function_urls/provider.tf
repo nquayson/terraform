@@ -9,6 +9,6 @@ terraform {
 }
 
 provider "aws" {
-  profile = "nana"
+  profile = "your_cli_profile"
   region  = "us-east-1"
 }
