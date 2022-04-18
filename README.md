@@ -1,3 +1,3 @@
 # Intro
 
-Let's learn Terraform
+Let's learn Terraform!
